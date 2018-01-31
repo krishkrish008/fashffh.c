@@ -7,7 +7,7 @@ scanf("%d",&a);
 for(b=1;b<=a;b++)
 {
 c=b*5;
-printf("%d",c);
+printf("\n %d",c);
 }
 return 0;
 }
